@@ -4,10 +4,12 @@
 
 I am a Computer Science & Engineering student at the Jaypee Institute of Information Technology, Noida (Class of 2028). I am passionate about building interactive software, mastering algorithmic problem solving, and exploring artificial intelligence to build real-world systems. 
 
-When I'm not coding or pushing my ranks in competitive programming, you can find me participating in hackathons !
+When I'm not coding or pushing my ranks in competitive programming, you can find me participating in hackathons!
+
+🌱 **Currently Exploring:** Advanced graph theory, STL optimization, and Linux desktop environment configuration (specifically optimizing Wayland sessions on Ubuntu).
 
 ### 📫 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gourav1606gupta@gmail.com)
 
 ---
@@ -40,26 +42,30 @@ When I'm not coding or pushing my ranks in competitive programming, you can find
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 * **Core CS:** Data Structures & Algorithms, Object-Oriented Programming (OOP), Database Management (DBMS), Theory of Computation.
-* **Architecture:** Software Engineering, UML System Design, Digital Systems & Computer Organization.
+* **Architecture:** Software Engineering, UML System Design (Use Case, Class, and Sequence diagrams), Digital Systems & Computer Organization.
 
 ---
 
 ### 🚀 Featured Projects
+
+#### 📈 EcoYield ForeSight Retail
+A comprehensive data analysis and machine learning pipeline focused on sales forecasting and waste reduction strategies.
+* **Tech:** Python, Pandas, NumPy, Scikit-learn, XGBoost
+* **Features:** Engineered a robust forecasting model that achieved equivalent forecasting performance with a **12% MAPE**. Includes detailed exploratory data analysis and outlier management.
+
+#### ♟️ AI Chess Playing System
+A production-quality chess engine featuring a custom-built artificial intelligence opponent.
+* **Tech:** Python, Pygame
+* **Features:** Implemented advanced decision-making algorithms including Minimax and Alpha-Beta pruning to optimize engine evaluation functions and move selection.
 
 #### 🎮 [Vibe Gaming](https://gouravgupta1606.github.io/Vibe-Gaming/)
 A completely browser-based gaming hub built from scratch without any frameworks or game engines. 
 * **Tech:** Vanilla JavaScript, HTML5 Canvas API, CSS3
 * **Features:** 5 interactive games (Brick Breaker, Snake, Tic-Tac-Toe, Memory Match, Endless Runner) featuring custom physics, collision detection, and persistent high scores via local storage.
 
-#### 📈 EcoYield ForeSight Retail
-A comprehensive data analysis and machine learning pipeline focused on sales forecasting and waste reduction strategies.
-* **Tech:** Python, Pandas, NumPy, Scikit-learn, XGBoost
-* **Features:** Engineered a robust forecasting model that achieved equivalent forecasting performance with a 12% MAPE. Includes detailed exploratory data analysis and outlier management.
-
-#### ♟️ AI Chess Playing System
-A production-quality chess engine featuring a custom-built artificial intelligence opponent.
-* **Tech:** Python, Pygame
-* **Features:** Implemented advanced decision-making algorithms including Minimax and Alpha-Beta pruning to optimize engine evaluation functions and move selection.
+#### 🌍 Environmental Impact Study: Coral Reef Crises
+An interdisciplinary research presentation detailing the impact of coral reef destruction and bleaching.
+* **Features:** Synthesized complex environmental data into a professionally formatted visual presentation to highlight ecological crises.
 
 #### ⚙️ Digital Logic Simulators
 Hardware simulations for complex logic systems.
@@ -69,6 +75,9 @@ Hardware simulations for complex logic systems.
 ---
 
 ### 🏆 Achievements & Extracurriculars
-* **Hackathons:** Finalist at HackLoop .
+* **Hackathons:** Finalist at HackLoop.
 * **Problem Solving:** Actively engaged in Competitive Programming, focusing on advanced graph theory, tree algorithms (LCA, Binary Lifting), and STL optimization.
-* **Community:** Active member of the Robotics Club and collaborative software engineering projects.
+* **Team Collaboration:** Regularly collaborate on complex software engineering projects and academic presentations alongside peers like Shlok Sharma, Aryan Bharti, and Krish Chadha, managing system design, UML planning, and execution.
+* **Community:** Active member of the Robotics Club.
+
+
